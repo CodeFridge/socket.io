@@ -13,10 +13,10 @@
     ]
   , "repository":{
         "type": "git"
-      , "url": "https://github.com/LearnBoost/socket.io.git"
+      , "url": "https://github.com/Orchestra/socket.io.git"
     }
   , "dependencies": {
-        "socket.io-client": "0.9.6"
+        "socket.io-client": "https://github.com/Orchestra/socket.io-client.git/tarball/nohandshake"
       , "policyfile": "0.0.4"
       , "redis": "0.7.2"
     }
