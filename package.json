@@ -13,10 +13,10 @@
     ]
   , "repository":{
         "type": "git"
-      , "url": "https://github.com/Orchestra/socket.io-client.git"
+      , "url": "https://github.com/CodeFridge/socket.io-client.git"
     }
   , "dependencies": {
-        "socket.io-client": "https://github.com/Orchestra/socket.io-client/tarball/nohandshake"
+        "socket.io-client": "https://github.com/CodeFridge/socket.io-client/tarball/nohandshake"
       , "policyfile": "0.0.4"
       , "redis": "0.7.2"
     }
